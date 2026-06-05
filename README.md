@@ -19,7 +19,7 @@ Automated encoding detection dan cryptography decryption tool untuk CTF challeng
 
 ```bash
 # Clone
-git clone https://github.com/YourUsername/ctf-solver.git
+git clone https://github.com/dionovatama/CTF-Solver-Tool-v1.0---Basic-Encodings-Working.git
 cd ctf-solver
 
 # Setup
